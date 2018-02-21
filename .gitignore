@@ -1,0 +1,4 @@
+#Ignore image folder
+img/
+#ignore read me text file
+readme.txt
